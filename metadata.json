@@ -1,0 +1,6 @@
+{
+  "name": "Biblioteca Escolar Digital",
+  "description": "Sistema de gerenciamento de acervo, exemplares físicos, leitores e empréstimos para bibliotecas escolares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
